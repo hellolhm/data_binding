@@ -1,0 +1,30 @@
+[
+    {
+        "navTitle" : "자기소개",
+        "navLink" : "#about",
+        "navTarget": "_blank",
+        "navClass" : "scrollPage",
+        "isMe" : "true"
+    },
+    {
+        "navTitle" : "portfolio",
+        "navLink" : "#portfolio",
+        "navTarget": "_blank",
+        "navClass" : "scrollPage",
+        "isMe" : "true"
+    },
+    {
+        "navTitle" : "쉬어가기",
+        "navLink" : "#time",
+        "navTarget": "_blank",
+        "navClass" : "scrollPage",
+        "isMe" : "true"
+    },
+    {
+        "navTitle" : "contact",
+        "navLink" : "#contact",
+        "navTarget": "_blank",
+        "navClass" : "scrollPage",
+        "isMe" : "true"
+    }
+]
